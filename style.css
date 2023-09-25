@@ -5,7 +5,8 @@
     background-color: white;
     padding: 20px;
     border-radius: 10px;
-    max-width: 50%;
+    height: 453.35px;
+    width: 288px;
     }
     body{
       background-color: #d5e1ef;
@@ -17,7 +18,7 @@
       text-align: center;
     }
     img {
-      display: block;
+      display: grid;
       margin-left: auto;
       margin-right: auto;
       width: 100%;
